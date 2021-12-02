@@ -1,0 +1,23 @@
+{
+  "name": "taylor-songs",
+  "version": "1.0.0",
+  "description": "Just a taylor swift api from a fan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priyal168/taylor-songs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Priyal168/taylor-songs/issues"
+  },
+  "homepage": "https://github.com/Priyal168/taylor-songs#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
