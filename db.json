@@ -1,0 +1,16 @@
+{
+     "taylor": [
+          {
+               "id" : 0,
+               "albumname" : "Red",
+               "song" : "All too well",
+               "quote" : "Maybe this thing was a masterpiece till you tore it all up"
+          },
+          {
+               "id" : 1,
+               "albumname" : "Folklore",
+               "song" : "August",
+               "quote" : "Remember when I pulled up and said get in thr car, and cancel my plans just incase you call."
+          }
+     ]
+}
